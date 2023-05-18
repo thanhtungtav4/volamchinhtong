@@ -1,5 +1,5 @@
-# Translation of Plugins - Akismet Spam Protection - Stable (latest release) in Vietnamese
-# This file is distributed under the same license as the Plugins - Akismet Spam Protection - Stable (latest release) package.
+# Translation of Plugins - Akismet Anti-Spam: Spam Protection - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Akismet Anti-Spam: Spam Protection - Stable (latest release) package.
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2019-11-12 11:13:56+0000\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: GlotPress/4.0.0-alpha.4\n"
 "Language: vi_VN\n"
-"Project-Id-Version: Plugins - Akismet Spam Protection - Stable (latest release)\n"
+"Project-Id-Version: Plugins - Akismet Anti-Spam: Spam Protection - Stable (latest release)\n"
 
 #: views/enter.php:8
 msgid "Enter your API key"
@@ -117,11 +117,6 @@ msgstr "Cấu hình bằng tay"
 msgid "On this page, you are able to update your Akismet settings and view spam stats."
 msgstr "Trong trang này, bạn có thể cập nhật thiết lập Akismet và xem thống kê spam."
 
-#. Description of the plugin
-msgid "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam</strong>. It keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key."
-msgstr "Được sử dụng bởi hàng triệu người, Akismet có thể là cách tốt nhất trên thế giới để <strong>bảo vệ blog của bạn từ spam</strong>. Nó giúp trang của bạn được bảo vệ cả khi bạn đang ngủ. Để bắt đầu: kích hoạt phần mở rộng Akismet và chuyển đến trang Thiết lập Akismet để cài đặt API key của bạn. "
-
-#. Plugin Name of the plugin
 #: class.akismet-admin.php:114 class.akismet-admin.php:117
 msgid "Akismet Anti-Spam"
 msgstr "Akismet Anti-Spam"
@@ -335,10 +330,6 @@ msgstr "Bình luận này bị báo cáo là bình luận rác."
 #. Author URI of the plugin
 msgid "https://automattic.com/wordpress-plugins/"
 msgstr "https://automattic.com/wordpress-plugins/"
-
-#. Author of the plugin
-msgid "Automattic"
-msgstr "Automattic"
 
 #. Plugin URI of the plugin
 msgid "https://akismet.com/"

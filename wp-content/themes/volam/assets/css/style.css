@@ -9,41 +9,12 @@
 a{
     color: #b22222;
 }
-body{
-    /*background-color: #280000;*/
-    /*background: url('../imgs/bg-skin-noel-2020-cover.jpg?v=1.1') ;*/
-    /*background: #060813 url('../imgs/bg-14012021.png?v=1.1') no-repeat;*/
-    /*background: #060813 url('../imgs/bg-new-year-2021.jpg?v=1.1') no-repeat;*/
-    /* background: #303f06 url('../imgs/bg-summer-2021.jpg?v=1.1') no-repeat center 0; */
-    /* background: #02070b url('../imgs/bg-autumn-2021.jpg?v=1.1') no-repeat center 0; */
-    /* background: #2d425d url('../imgs/bg-noel-2021.jpg?v=1.1') no-repeat center 0; */
-    /*background: #420002 url('../imgs/bg-newyear-2022.jpg?v=1.1') no-repeat center 0;*/
-    /* background: #051433 url('../imgs/bg-summer-2022.jpg?v=1.1') no-repeat center 0; */
-    background: #021533 url('../images/bg-summer-2022-2.jpg') no-repeat center 0;
-    /* background: #000000 url('../imgs/bg-trung-thu-2022.jpg') no-repeat center 0; */
-    /* background: #fefeff url('../imgs/bg-noel-2022.jpg') no-repeat center 0; */
-    /* background: #000000 url('../imgs/bg-tet-2023.jpg') no-repeat center 0; */
-    font-family: 'Roboto Slab', serif;
-}
-body.subpage{
-    /*background: url('../imgs/bg-subpage-new-year-2021.jpg?v=1.1') no-repeat center 0;
-    background: url("../imgs/bg-subpage-new-year-2021.jpg?v=1.1") no-repeat center 0, url(../imgs/bg-body-subpage.jpg?v=1.1) left top repeat;*/
-    /* background: #303f06 url('../imgs/bg-subpage-summer-2021.jpg?v=1.1') no-repeat center 0; */
-    /* background: #02070b url('../imgs/bg-autumn-subpage-2021.jpg?v=1.1') no-repeat center 0; */
-    /* background: #2d425d url('../imgs/bg-noel-sub-2021.jpg?v=1.1') no-repeat center 0; */
-    /*background: #420002 url('../imgs/bg-newyear-sub-2022.jpg?v=1.1') no-repeat center 0;*/
-    background: #021533 url('../images/bg-summer-2022-2.jpg') no-repeat center 0;
-}
+
 .wrapper{
     display: block;
     overflow: hidden;
     width: 100%;
     margin: auto;
-}
-.wrapper.home{
-    /*background: url('../imgs/bg-home.png?v=1.1') no-repeat center 0;*/
-    /* background: url('../images/bg-14012021.png') no-repeat center 0; */
-    /*background: url('../imgs/bg-14012021.png?v=1.1') no-repeat center 0;*/
 }
 .wrapper-inner{
     display: block;
@@ -1883,4 +1854,12 @@ body.subpage{
 }
 .btn-login {
     display: none;
+}
+.m-center404{
+    margin: 3rem auto 6rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
 }
