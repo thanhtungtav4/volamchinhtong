@@ -141,26 +141,6 @@ $.fn.swapMenu = function () {
 }
 
 $(document).ready(function () {
-
-    if($('#key-search').length && $.cookie('keySearch')){
-        $('#key-search').text($.cookie('keySearch'));
-    }
-
-    $('form.search-lite').submit(function(){
-        var text = $(this).find('input[type="text"]').val();
-        $.cookie('keySearch', text, { expires: 1, path: '/' });
-
-        if(!text){
-            return false;
-        }
-        var redirectUrl = '/tim-kiem/'+changeAlias(text);
-        window.location.replace(redirectUrl);
-        window.location.href = redirectUrl;
-
-        return false;
-    })
-
-
     var owl = $('.owl-carousel');
     owl.owlCarousel({
         margin: 10,
@@ -170,12 +150,6 @@ $(document).ready(function () {
             0: {
                 items: 1
             },
-            // 600: {
-            //     items: 2
-            // },
-            // 1000: {
-            //     items: 3
-            // }
         }
     })
 

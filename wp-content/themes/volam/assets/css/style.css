@@ -1863,3 +1863,23 @@ a{
     align-items: center;
     min-height: 20vh;
 }
+.pagination .nav-links{
+    display: flex;
+    justify-content: center;
+}
+.pagination a, .page-numbers{
+    display: block;
+    overflow: hidden;
+    line-height: 22px;
+    width: 22px;
+    text-decoration: none;
+    background-color: #373432;
+    color: #767676;
+    margin: 0 4px;
+}
+.pagination .current{
+    background-color: #ffe58b;
+}
+.screen-reader-text{
+    visibility: hidden;
+}
