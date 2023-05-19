@@ -153,4 +153,4 @@ $testOptionData['requiredSelectors'] =  $testRequiredSelectorsString;
         ], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
         <?php echo $__env->make('partials/test-result-container', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
     </td>
-</tr><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/general-settings/translation/translation-api-settings-base.blade.php ENDPATH**/ ?>
+</tr><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/general-settings/translation/translation-api-settings-base.blade.php ENDPATH**/ ?>

@@ -26,4 +26,4 @@
     ], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 
 </table>
-<?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/site-settings/tab-import-export.blade.php ENDPATH**/ ?>
+<?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/site-settings/tab-import-export.blade.php ENDPATH**/ ?>

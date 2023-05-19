@@ -30,4 +30,4 @@
 
 <?php if($addTaxonomyInput && $taxonomyInputName): ?>
     <input type="hidden" class="category-taxonomy" name="<?php echo e($taxonomyInputName); ?>" value="<?php echo e($selectedTaxonomy); ?>">
-<?php endif; ?><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/form-items/partials/categories.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/form-items/partials/categories.blade.php ENDPATH**/ ?>

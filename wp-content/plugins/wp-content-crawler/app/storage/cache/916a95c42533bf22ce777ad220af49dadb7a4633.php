@@ -16,4 +16,4 @@ $keyUrlHash = WPCCrawler\Environment::keyUrlHash();
 // By doing this, we ensure that the tab activation will be done only after the settings are updated.
 if($isSiteSetting && $data) delete_post_meta($postId, '_wpcc_site_query_params');
 
-?><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/partials/input-url-hash.blade.php ENDPATH**/ ?>
+?><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/partials/input-url-hash.blade.php ENDPATH**/ ?>

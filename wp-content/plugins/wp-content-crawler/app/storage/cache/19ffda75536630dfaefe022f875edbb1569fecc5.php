@@ -17,4 +17,4 @@
 do_action('wpcc/view/site-settings/meta-box/notes');
 
 ?>
-<?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/site-settings/meta-box-notes.blade.php ENDPATH**/ ?>
+<?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/site-settings/meta-box-notes.blade.php ENDPATH**/ ?>

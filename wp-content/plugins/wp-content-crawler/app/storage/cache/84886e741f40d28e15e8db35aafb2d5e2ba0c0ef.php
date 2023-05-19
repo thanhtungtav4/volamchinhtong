@@ -36,4 +36,4 @@ use WPCCrawler\Objects\Crawling\Bot\Objects\CrawlerVariable;
 
         </tbody>
     </table>
-</div><?php /**PATH D:\Xampp\htdocs\volamchinhtong.io\wp-content\plugins\wp-content-crawler\app\views/partials/crawler-variables.blade.php ENDPATH**/ ?>
+</div><?php /**PATH D:\Xampp\htdocs\volamnhatpham.io\wp-content\plugins\wp-content-crawler\app\views/partials/crawler-variables.blade.php ENDPATH**/ ?>

@@ -11,4 +11,4 @@
     <div class="info-button"><span class="dashicons dashicons-info"></span></div>
     <div style="clear: both;"></div>
     <div class="info-text hidden"><?php echo $info; ?></div>
-<?php endif; ?><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/form-items/label.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/form-items/label.blade.php ENDPATH**/ ?>

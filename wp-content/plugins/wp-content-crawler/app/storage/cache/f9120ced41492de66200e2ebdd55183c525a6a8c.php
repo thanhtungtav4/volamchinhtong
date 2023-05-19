@@ -6,4 +6,4 @@
                         ($message ?: _wpcc('Done')) :
                         ($message ?: _wpcc("An error occurred."))
     ], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
-<?php endif; ?><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/partials/success-alert.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/partials/success-alert.blade.php ENDPATH**/ ?>

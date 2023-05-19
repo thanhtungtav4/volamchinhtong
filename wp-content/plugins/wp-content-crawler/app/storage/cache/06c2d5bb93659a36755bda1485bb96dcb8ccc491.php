@@ -46,4 +46,4 @@ $suffixRegion       = 'region';
         $suffixSecret,
         $suffixRegion
     ],
-], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/general-settings/translation/settings-amazon_translate.blade.php ENDPATH**/ ?>
+], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/general-settings/translation/settings-amazon_translate.blade.php ENDPATH**/ ?>

@@ -124,9 +124,9 @@
             <div class="block-social">
                 <h3>Facebook</h3>
                 <div class="social">
-                <div class="fb-page" data-href="https://www.facebook.com/volamchinhtong" data-tabs="timeline" data-width="328" data-height="457" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-                    <blockquote cite="https://www.facebook.com/volamchinhtong" class="fb-xfbml-parse-ignore">
-                    <a href="https://www.facebook.com/volamchinhtong">Võ Lâm Chính Tông</a>
+                <div class="fb-page" data-href="https://www.facebook.com/VoLamNhatPham" data-tabs="timeline" data-width="328" data-height="457" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                    <blockquote cite="https://www.facebook.com/VoLamNhatPham" class="fb-xfbml-parse-ignore">
+                    <a href="https://www.facebook.com/VoLamNhatPham">Võ Lâm Chính Tông</a>
                     </blockquote>
                 </div>
                 </div>

@@ -24,7 +24,7 @@ var iframe_open = function (url, styles) {
 function widget_login() {
     var task = this.getAttribute('data-task');
     
-    var _url="https://volamchinhtong.com/id/widget?redirect-top=1";
+    var _url="https://volamnhatpham.com/id/widget?redirect-top=1";
     if (task) {
         _url = _url + "&task="+task;
     }

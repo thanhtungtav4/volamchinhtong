@@ -13,4 +13,4 @@
                 removed if it is not a valid JSON.'), \WPCCrawler\Objects\Enums\ShortCodeName::WCC_ITEM) . ' ' . _wpcc_wcc_item_short_code_dot_key_for_json()
     ], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 
-</table><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/form-items/options-box/tabs/tab-general.blade.php ENDPATH**/ ?>
+</table><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/form-items/options-box/tabs/tab-general.blade.php ENDPATH**/ ?>

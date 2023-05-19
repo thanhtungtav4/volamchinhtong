@@ -25,7 +25,7 @@ var messageEvent = eventMethod === "attachEvent"
     ? "onmessage"
     : "message";
 eventer(messageEvent, function (e) {
-    if(e.origin != "https://id.volamchinhtong.com" && e.origin != "http://id.volamchinhtong.com" && e.origin != "https://volamchinhtong.com" && e.origin != "http://volamchinhtong.com"){
+    if(e.origin != "https://id.volamnhatpham.com" && e.origin != "http://id.volamnhatpham.com" && e.origin != "https://volamnhatpham.com" && e.origin != "http://volamnhatpham.com"){
         return;
     }
     if(!isJson(e.data)){

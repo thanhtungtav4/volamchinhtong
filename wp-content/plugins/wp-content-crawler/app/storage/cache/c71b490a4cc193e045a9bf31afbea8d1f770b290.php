@@ -122,4 +122,4 @@ $transFullUrl = _wpcc('Make sure you entered full URLs. In other words, they sho
 
 <?php echo $__env->make('tools.base.tool-container', [
     'id' => 'tool-manual-crawl'
-], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/tools/tools/tool-manually-crawl.blade.php ENDPATH**/ ?>
+], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/tools/tools/tool-manually-crawl.blade.php ENDPATH**/ ?>

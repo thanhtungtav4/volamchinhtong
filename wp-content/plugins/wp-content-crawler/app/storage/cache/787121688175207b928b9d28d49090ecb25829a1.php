@@ -275,4 +275,4 @@ function _wpcc_trans_html_element_short_code($shortCodeName, $transElement, $tra
     ?>
 
 </table>
-<?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/site-settings/tab-templates.blade.php ENDPATH**/ ?>
+<?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/site-settings/tab-templates.blade.php ENDPATH**/ ?>
