@@ -126,7 +126,7 @@
                 <div class="social">
                 <div class="fb-page" data-href="https://www.facebook.com/VoLamNhatPham" data-tabs="timeline" data-width="328" data-height="457" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
                     <blockquote cite="https://www.facebook.com/VoLamNhatPham" class="fb-xfbml-parse-ignore">
-                    <a href="https://www.facebook.com/VoLamNhatPham">Võ Lâm Chính Tông</a>
+                    <a href="https://www.facebook.com/VoLamNhatPham">Võ Lâm Nhất Phẩm</a>
                     </blockquote>
                 </div>
                 </div>

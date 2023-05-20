@@ -21,16 +21,16 @@
       <div class="package package-full">
         <div class="step step-start" style="height: 71.8229px;">
           <a target="_blank" href="https://volamnhatpham.com/dl/VoLamChinhTong_c21.exe" class="download-full" onclick="downloadFull()">Bản đầy đủ (2.5G)</a>
-          <!-- <a href="//dl.volamnhatpham.com/vlct-ac21.zip" class="download-full" onclick="downloadFull()">Bản đầy đủ (2.5G)</a> -->
-          <!-- <a href="http://vlct.cloudpro.cl/new/vlct-ac21.zip" class="download-full" onclick="downloadFull()">Bản đầy đủ (2.5G)</a> -->
+          <!-- <a href="//dl.volamnhatpham.com/vlnp-ac21.zip" class="download-full" onclick="downloadFull()">Bản đầy đủ (2.5G)</a> -->
+          <!-- <a href="http://vlnp.cloudpro.cl/new/vlnp-ac21.zip" class="download-full" onclick="downloadFull()">Bản đầy đủ (2.5G)</a> -->
         </div>
         <div class="step" style="height: 268.164px;">
           <div class="text"> Bước 1: <span class="highlight">Tải Game</span>
           </div>
           <div class="text-center">
             <a target="_blank" href="https://volamnhatpham.com/dl/VoLamChinhTong_c21.exe" class="download-full download-image" onclick="downloadFull()">
-              <!-- <a target="_blank" href="//dl.volamnhatpham.com/vlct-ac21.zip" class="download-full download-image" onclick="downloadFull()"> -->
-              <!-- <a target="_blank" href="http://vlct.cloudpro.cl/new/vlct-ac21.zip" class="download-full download-image" onclick="downloadFull()"> -->
+              <!-- <a target="_blank" href="//dl.volamnhatpham.com/vlnp-ac21.zip" class="download-full download-image" onclick="downloadFull()"> -->
+              <!-- <a target="_blank" href="http://vlnp.cloudpro.cl/new/vlnp-ac21.zip" class="download-full download-image" onclick="downloadFull()"> -->
               <img src="//volamnhatpham.com/st/mainsite/imgs/btn-download-transparent.png" alt="Download">
             </a>
           </div>
@@ -60,8 +60,8 @@
       <div class="package package-mini">
         <div class="step step-start">
           <a target="_blank" href="https://volamnhatpham.com/dl/VoLamChinhTong_mini_c21.exe" class="download-mini" onclick="downloadMini()">Bản patch (40MB)</a>
-          <!-- <a target="_blank" href="https://dl.volamnhatpham.com/vlct-patch-53c.zip" class="download-mini" onclick="downloadMini()">Bản patch (32M)</a> -->
-          <!-- <a target="_blank" href="//dl.volamnhatpham.com/vlct-patch-ac21.zip" class="download-mini" onclick="downloadMini()">Bản patch (32M)</a> -->
+          <!-- <a target="_blank" href="https://dl.volamnhatpham.com/vlnp-patch-53c.zip" class="download-mini" onclick="downloadMini()">Bản patch (32M)</a> -->
+          <!-- <a target="_blank" href="//dl.volamnhatpham.com/vlnp-patch-ac21.zip" class="download-mini" onclick="downloadMini()">Bản patch (32M)</a> -->
         </div>
         <div class="step">
           <div class="text">
@@ -69,8 +69,8 @@
           </div>
           <div class="text-center">
             <a target="_blank" href="https://volamnhatpham.com/dl/VoLamChinhTong_mini_c21.exe" class="download-mini download-image" onclick="downloadMini()">
-              <!-- <a target="_blank" href="https://dl.volamnhatpham.com/vlct-patch-53c.zip" class="download-mini download-image" onclick="downloadMini()"> -->
-              <!-- <a target="_blank" href="//dl.volamnhatpham.com/vlct-patch-ac21.zip" class="download-mini download-image" onclick="downloadMini()"> -->
+              <!-- <a target="_blank" href="https://dl.volamnhatpham.com/vlnp-patch-53c.zip" class="download-mini download-image" onclick="downloadMini()"> -->
+              <!-- <a target="_blank" href="//dl.volamnhatpham.com/vlnp-patch-ac21.zip" class="download-mini download-image" onclick="downloadMini()"> -->
               <img src="//volamnhatpham.com/st/mainsite/imgs/btn-download-transparent.png" alt="Download">
             </a>
           </div>

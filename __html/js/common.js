@@ -55,7 +55,7 @@ eventer(messageEvent, function (e) {
 $(document).ready(function(){
     // $('.download').click(function(){
     //     Swal.fire({
-    //           title: 'Võ Lâm Chính Tông!',
+    //           title: 'Võ Lâm Nhất Phẩm!',
     //           text: 'Bản cài đặt sẽ được công bố vào ngày 22/06)',
     //           confirmButtonText: 'OK'
     //     });
