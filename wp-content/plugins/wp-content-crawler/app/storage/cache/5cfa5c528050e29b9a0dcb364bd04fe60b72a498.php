@@ -8,4 +8,4 @@ $prefs = (new UserPrefsService())->getUserPreferences($pageType ?? null, $siteId
 
 ?>
 
-<div id="user-prefs" class="hidden" data-prefs='<?php echo $prefs; ?>'></div><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/partials/user-preferences.blade.php ENDPATH**/ ?>
+<div id="user-prefs" class="hidden" data-prefs='<?php echo $prefs; ?>'></div><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/partials/user-preferences.blade.php ENDPATH**/ ?>

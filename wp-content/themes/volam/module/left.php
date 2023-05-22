@@ -31,7 +31,7 @@
                 fjs.parentNode.insertBefore(js, fjs);
                 }(document, 'script', 'facebook-jssdk'));
             </script>
-            <div class="fb-group" data-href="https://www.facebook.com/groups/volamchinhtong2005" data-width="305" data-show-social-context="true" data-show-metadata="true">Nhóm Facebook Võ Lâm Chính Tông</div>
+            <div class="fb-group" data-href="https://www.facebook.com/groups/VoLamNhatPham" data-width="305" data-show-social-context="true" data-show-metadata="true">Nhóm Facebook Võ Lâm Nhất Phẩm</div>
             </div>
         </div>
         <div class="daily">

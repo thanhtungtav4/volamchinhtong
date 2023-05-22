@@ -9,4 +9,4 @@ use WPCCrawler\Objects\Settings\Enums\SettingInnerKey;
            value="<?php echo e($value[SettingInnerKey::OPTIONS_BOX] ?? '{}'); ?>"
     >
     <div class="summary-colors"></div>
-</button><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/form-items/options-box/button-options-box.blade.php ENDPATH**/ ?>
+</button><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/form-items/options-box/button-options-box.blade.php ENDPATH**/ ?>

@@ -16,4 +16,4 @@
         title="<?php echo e(_wpcc("Visual Inspector")); ?>"
 >
     <span class="dashicons dashicons-admin-tools"></span>
-</button><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/form-items/dev-tools/button-dev-tools.blade.php ENDPATH**/ ?>
+</button><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/form-items/dev-tools/button-dev-tools.blade.php ENDPATH**/ ?>

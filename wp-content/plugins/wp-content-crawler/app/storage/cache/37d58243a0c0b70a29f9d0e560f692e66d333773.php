@@ -8,4 +8,4 @@
 
     </div>
 </div>
-<?php echo $__env->make('partials/test-result-container', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/form-items/partials/button-load-languages.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('partials/test-result-container', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/form-items/partials/button-load-languages.blade.php ENDPATH**/ ?>

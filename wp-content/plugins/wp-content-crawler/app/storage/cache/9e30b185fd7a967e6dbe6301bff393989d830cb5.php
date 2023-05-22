@@ -234,4 +234,4 @@
 
 
 <style id="iframe-style"><?php echo \WPCCrawler\Factory::assetManager()->getDevToolsIframeStyle(); ?></style>
-<?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/form-items/dev-tools/dev-tools-content-container.blade.php ENDPATH**/ ?>
+<?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/form-items/dev-tools/dev-tools-content-container.blade.php ENDPATH**/ ?>

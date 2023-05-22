@@ -4,4 +4,4 @@
         <input type="password" name="<?php echo e($name); ?>" id="<?php echo e($name); ?>" placeholder="<?php echo e(_wpcc('New password')); ?>">
         <input type="password" name="<?php echo e($name . '_validation'); ?>" id="<?php echo e($name . '_validation'); ?>" placeholder="<?php echo e(_wpcc('New password again')); ?>">
     </div>
-</div><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/form-items/password-with-validation.blade.php ENDPATH**/ ?>
+</div><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/form-items/password-with-validation.blade.php ENDPATH**/ ?>

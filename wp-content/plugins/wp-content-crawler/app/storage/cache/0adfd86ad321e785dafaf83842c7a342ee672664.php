@@ -88,4 +88,4 @@ $checkboxOptions = [
 <?php echo $__env->make('general-settings.spinning.spinning-api-settings-base', [
     'apiOptionKeySuffixes'  => [$suffixApiKey, $suffixEmail],
     'registrationLink'      => \WPCCrawler\Objects\Transformation\Spinning\Clients\SpinRewriterClient::getAffiliateLink('https://www.spinrewriter.com/'),
-], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/general-settings/spinning/settings-spin_rewriter.blade.php ENDPATH**/ ?>
+], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/general-settings/spinning/settings-spin_rewriter.blade.php ENDPATH**/ ?>

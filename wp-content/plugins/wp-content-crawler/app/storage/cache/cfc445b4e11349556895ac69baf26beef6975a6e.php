@@ -113,4 +113,4 @@ do_action('wpcc/view/general-settings/add_tab_content', $settings, $isGeneralPag
 <div id="tab-gs-advanced" class="tab<?php echo e($isGeneralPage ? '' : '-inside'); ?> <?php echo e($isGeneralPage ? 'hidden' : ''); ?>">
     <?php echo $__env->make('general-settings.tab-advanced', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 </div>
-<?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/general-settings/settings.blade.php ENDPATH**/ ?>
+<?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/general-settings/settings.blade.php ENDPATH**/ ?>

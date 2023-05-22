@@ -38,4 +38,4 @@
     </form>
 <?php $__env->stopSection(true); ?>
 
-<?php echo $__env->make('tools.base.tool-container', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/tools/tools/tool-manually-recrawl.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('tools.base.tool-container', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/tools/tools/tool-manually-recrawl.blade.php ENDPATH**/ ?>

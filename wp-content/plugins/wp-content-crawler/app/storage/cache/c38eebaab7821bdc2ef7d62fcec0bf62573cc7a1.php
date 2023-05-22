@@ -2,4 +2,4 @@
      data-wcc="<?php echo e(json_encode([
         'testType' => \WPCCrawler\Test\Test::$TEST_TYPE_OPENAI_GPT_SHORT_CODE,
      ])); ?>"
-></div><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/form-items/partials/button-openai-gpt.blade.php ENDPATH**/ ?>
+></div><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/form-items/partials/button-openai-gpt.blade.php ENDPATH**/ ?>

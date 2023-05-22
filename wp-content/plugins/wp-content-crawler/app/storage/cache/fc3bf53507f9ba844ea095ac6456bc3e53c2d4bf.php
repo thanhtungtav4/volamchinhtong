@@ -6,4 +6,4 @@
                <?php if(isset($dependants) && $dependants): ?> data-dependants='<?php echo e($dependants); ?>' <?php endif; ?>
                <?php if(isset($settings[$name]) && !empty($settings[$name]) && $settings[$name][0]): ?> checked="checked" <?php endif; ?> />
     </div>
-</div><?php /**PATH D:\xampp\htdocs\volamchinhtong\wp-content\plugins\wp-content-crawler\app\views/form-items/checkbox.blade.php ENDPATH**/ ?>
+</div><?php /**PATH D:\xampp\htdocs\volamnhatpham\wp-content\plugins\wp-content-crawler\app\views/form-items/checkbox.blade.php ENDPATH**/ ?>
