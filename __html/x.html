@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Authentication Example</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    form {
+      max-width: 300px;
+      margin: 0 auto;
+    }
+
+    label, input {
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    input[type="submit"] {
+      padding: 10px;
+      background-color: #4CAF50;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #45a049;
+    }
+
+    .response {
+      margin-top: 20px;
+      padding: 10px;
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <h1>Login Form</h1>
+  <form id="loginForm">
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required>
+    <input type="submit" value="Login">
+  </form>
+
+  <h1>Registration Form</h1>
+  <form id="registerForm">
+    <label for="registerEmail">Email:</label>
+    <input type="email" id="registerEmail" name="registerEmail" required>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+    <label for="registerPassword">Password:</label>
+    <input type="password" id="registerPassword" name="registerPassword" required>
+    <input type="submit" value="Register">
+  </form>
+
+  <h1>Change Password Form</h1>
+  <form id="changePasswordForm">
+    <label for="changePassword">New Password:</label>
+    <input type="password" id="changePassword" name="changePassword" required>
+    <input type="submit" value="Change Password">
+  </form>
+
+  <div id="response" class="response"></div>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('#loginForm').submit(function(event) {
+        event.preventDefault(); // Prevent form submission
+
+        var email = $('#email').val();
+        var password = $('#password').val();
+
+        var formData = {
+          email: email,
+          password1: password,
+          login_id: 'wordpress'
+        };
+
+        $.ajax({
+          type: 'POST',
+          url: 'volamnhatpham.com/api/login',
+          data: JSON.stringify(formData),
+          contentType: 'application/json',
+          success: function(response) {
+            handleResponse(response);
+          },
+          error: function(xhr, status, error) {
+            handleResponse(xhr.responseJSON);
+          }
+        });
+      });
+
+      $('#registerForm').submit(function(event) {
+        event.preventDefault(); // Prevent form submission
+
+        var email = $('#registerEmail').val();
+        var name = $('#name').val();
+        var password = $('#registerPassword').val();
+
+        var formData = {
+          email: email,
+          name: name,
+          password1: password,
+          password2: password,
+          password1_confirmation: password,
+          password2_confirmation: password,
+          login_id: 'wordpress1'
+        };
+
+        $.ajax({
+          type: 'POST',
+          url: 'volamnhatpham.com/api/register',
+          data: JSON.stringify(formData),
+          contentType: 'application/json',
+          success: function(response) {
+            handleResponse(response);
+          },
+          error: function(xhr, status, error) {
+            handleResponse(xhr.responseJSON);
+          }
+        });
+      });
+
+      $('#changePasswordForm').submit(function(event) {
+        event.preventDefault(); // Prevent form submission
+
+        var password = $('#changePassword').val();
+
+        var token = 'jaBpi6kXZkfSIytYEbeKU0UZhXyhdIMLtpj7ptpz'; // Replace with the actual token
+
+        var formData = {
+          password1: password,
+          password2: password,
+          password1_confirmation: password,
+          password2_confirmation: password
+        };
+
+        $.ajax({
+          type: 'POST',
+          url: 'volamnhatpham.com/api/change-password1',
+          headers: {
+            'Authorization': 'Bearer ' + token
+          },
+          data: JSON.stringify(formData),
+          contentType: 'application/json',
+          success: function(response) {
+            handleResponse(response);
+          },
+          error: function(xhr, status, error) {
+            handleResponse(xhr.responseJSON);
+          }
+        });
+      });
+
+      function handleResponse(response) {
+        $('#response').text(JSON.stringify(response, null, 2));
+      }
+    });
+  </script>
+</body>
+</html>

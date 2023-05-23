@@ -32,6 +32,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="<?php echo get_stylesheet_directory_uri() ?>/assets/css/jquery.mCustomScrollbar.css">
     <link rel="stylesheet" type="text/css" media="screen" href="<?php echo get_stylesheet_directory_uri() ?>/assets/css/jquery.fancybox.min.css">
     <link rel="stylesheet" type="text/css" media="screen" href="<?php echo get_stylesheet_directory_uri() ?>/assets/css/style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="<?php echo get_stylesheet_directory_uri() ?>/assets/css/bootstrap.min.css">
     <script src="<?php echo get_stylesheet_directory_uri() ?>/assets/js/jquery.min.js"></script>
     <script src="<?php echo get_stylesheet_directory_uri() ?>/assets/js/owl.carousel.min.js"></script>
     <script src="<?php echo get_stylesheet_directory_uri() ?>/assets/js/jquery.mCustomScrollbar.js"></script>
