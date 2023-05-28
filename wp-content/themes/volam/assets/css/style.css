@@ -2523,9 +2523,6 @@ body, html {
         float: none !important;
     }
 }
-
-
-
 .table-bordered {
     border: 1px solid #000;
 }
@@ -2546,4 +2543,10 @@ table.table thead tr th, table.table thead tr td{
 }
 .form-min h2,.form-min label , .form-min .forget-pass, .form-min .forget-otp{
     color: #d2a763; 
+}
+.form-user .table-striped>tbody>tr:nth-of-type(odd){
+    background-color: transparent;
+}
+.form-user td, .form-user h2{
+    color: #f98d37;
 }
