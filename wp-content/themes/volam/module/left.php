@@ -1,5 +1,5 @@
 <?php 
-  $Wday = getdate()['wday'];
+  $Wday = getdate()['wday'] + 1;
 ?>
 <div class="content-left">
         <div class="block-user-account">
