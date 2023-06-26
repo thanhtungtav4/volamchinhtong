@@ -27,6 +27,7 @@ if ( ! defined( '_S_VERSION' ) ) {
 			'caption',
 			'style',
 			'script',
+			'post-thumbnails'
 		)
 	);
 

@@ -5,7 +5,7 @@
         <div class="block-user-account">
             <a href="/download" class="download">
             <video width="310" height="160" preload loop muted autoplay poster>
-                <source src="media/btn-download.mp4" type="video/mp4">
+                <source src="<?php echo get_stylesheet_directory_uri() ?>/assets/media/btn-download.mp4" type="video/mp4">
             </video>
             </a>
             <div class="clip">
