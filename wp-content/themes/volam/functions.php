@@ -13,29 +13,10 @@ if ( ! defined( '_S_VERSION' ) ) {
 	// Replace the version number of the theme on each release.
 	define( '_S_VERSION', '1.0.0' );
 }
-	/*
-		* Switch default core markup for search form, comment form, and comments
-		* to output valid HTML5.
-		*/
-	add_theme_support(
-		'html5',
-		array(
-			'search-form',
-			'comment-form',
-			'comment-list',
-			'gallery',
-			'caption',
-			'style',
-			'script',
-			'post-thumbnails'
-		)
-	);
-
-/**
- * Register widget area.
- *
- * @link https://developer.wordpress.org/themes/functionality/sidebars/#registering-a-sidebar
- */
+function volam_setup() {
+	add_theme_support( 'post-thumbnails' );
+}
+add_action( 'after_setup_theme', 'volam_setup' );
 function volam_widgets_init() {
 	register_sidebar(
 		array(
