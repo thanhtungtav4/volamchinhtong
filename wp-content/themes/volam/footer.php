@@ -15,7 +15,7 @@
     <div class="footer-inner">
       <div class="logo">
         <a href="/">
-          <img loading="lazy" src="<?php echo get_stylesheet_directory_uri() ?>/assets/images/logo.jpg" style="width: 176px; height: 150px;"  alt="volam">
+          <img loading="lazy" src="<?php echo get_stylesheet_directory_uri() ?>/assets/images/logo.png" style="width: 176px; height: 150px;"  alt="volam">
         </a>
       </div>
       <div class="info">
