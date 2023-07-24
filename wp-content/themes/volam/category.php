@@ -13,11 +13,12 @@
 
   get_header();
   $category = get_queried_object()->slug;
+  var_dump($category);
   $paged = get_query_var( 'paged' ) ? get_query_var( 'paged' ) : 1;
   $query = new WP_Query(
     array(
       'paged'         => $paged,
-      'category' => $category,
+      'category_name' => $category,
       'order'         => 'asc',
       'post_type'     => 'post',
       'post_status'   => 'publish',
@@ -64,7 +65,7 @@
                   <p><?php echo wp_trim_words(get_the_excerpt(), 20, '...'); ?></p>
                 </div>
               </div>
-          <?php    
+          <?php
             endwhile;
             wp_reset_query();
           ?>
