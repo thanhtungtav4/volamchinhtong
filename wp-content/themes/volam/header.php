@@ -48,7 +48,8 @@
           <div class="nav">
             <a href="#" class="swapmenu"></a>
             <a href="/">
-              <img src="<?php echo get_stylesheet_directory_uri() ?>/assets/images/logo.png"  style="width: 176px; height: 150px;"  alt="Võ Lâm Nhất Phẩm" class="logo">
+              <img src="<?php echo get_stylesheet_directory_uri() ?>/assets/images/logo.png"  style="    max-width: 176px;
+    max-height: 150px;"  alt="Võ Lâm Nhất Phẩm" class="logo">
             </a>
             <?php if (has_nav_menu( 'primary_menu' )) {
                 wp_nav_menu( array(
