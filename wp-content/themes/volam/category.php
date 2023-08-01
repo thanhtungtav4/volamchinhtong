@@ -13,7 +13,6 @@
 
   get_header();
   $category = get_queried_object()->slug;
-  var_dump($category);
   $paged = get_query_var( 'paged' ) ? get_query_var( 'paged' ) : 1;
   $query = new WP_Query(
     array(
