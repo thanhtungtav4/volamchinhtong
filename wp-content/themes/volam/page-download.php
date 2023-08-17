@@ -20,13 +20,13 @@
     <div class="download-option">
       <div class="package package-full">
         <div class="step step-start" style="height: 71.8229px;">
-          <a target="_blank" href="#" class="download-full" onclick="downloadFull()">Bản đầy đủ (2.5G)</a>
+          <a target="_blank" href="http://storage.volamnhatpham.com/VoLamNhatPham_Full_Pass_123456.zip" class="download-full" download>Bản đầy đủ (2.5G)</a>
         </div>
         <div class="step" style="height: 268.164px;">
           <div class="text"> Bước 1: <span class="highlight">Tải Game</span>
           </div>
           <div class="text-center">
-            <a target="_blank" href="#" class="download-full download-image" onclick="downloadFull()">
+            <a target="_blank" href="http://storage.volamnhatpham.com/VoLamNhatPham_Full_Pass_123456.zip" class="download-full download-image" download>
               <img src="<?php echo get_stylesheet_directory_uri() ?>/assets/images/btn-download-transparent.png" alt="Download">
             </a>
           </div>
@@ -55,14 +55,14 @@
       </div>
       <div class="package package-mini">
         <div class="step step-start">
-          <a target="_blank" href="#" class="download-mini" onclick="downloadMini()">Bản patch (40MB)</a>
+          <a target="_blank" href="http://storage.volamnhatpham.com/VoLamNhatPham_Patch_Pass_123456.zip" class="download-mini" download>Bản patch (40MB)</a>
         </div>
         <div class="step">
           <div class="text">
              Bước 1: <span class="highlight">Tải patch nếu máy đã có game VLTK</span>
           </div>
           <div class="text-center">
-            <a target="_blank" href="#" class="download-mini download-image" onclick="downloadMini()">
+            <a target="_blank" href="http://storage.volamnhatpham.com/VoLamNhatPham_Patch_Pass_123456.zip" class="download-mini download-image" download>
               <img src="<?php echo get_stylesheet_directory_uri() ?>/assets/images/btn-download-transparent.png" alt="Download">
             </a>
           </div>
