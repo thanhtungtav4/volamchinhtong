@@ -15,7 +15,6 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="index, follow">
     <meta name="keywords" content="võ lâm, vo lam, volam, vltk, jx1, võ lâm free, vo lam free, võ lâm miễn phí, vo lam mien phi, võ lâm private, vo lam private, võ lâm pri, vo lam pri, thân pháp, than phap, 2005, ctc, công thành chiến, cong thanh chien, võ lâm truyền kỳ, vo lam truyen ky, đồ xanh, hoàng kim, công thành, tống kim, an bang, định quốc, nhất phẩm, hồi ức, phiên bản xanh, vo lam lau, võ lâm lậu, vo lam moi ra, vo lam mới ra">
     <meta name="description" content="Võ Lâm Nhất Phẩm - Hệ Mộc thân pháp, phiên bản Công Thành Chiến, cân bằng các phái, hỗ trợ tận tình.">
     <meta property="og:type" content="game.achievement">
