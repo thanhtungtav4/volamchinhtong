@@ -36,6 +36,17 @@
 </div>
 </div>
 <?php wp_footer(); ?>
+  <div class="hotline-phone-ring-wrap">
+    <div class="hotline-phone-ring">
+      <div class="hotline-phone-ring-circle"></div>
+      <div class="hotline-phone-ring-circle-fill"></div>
+      <div class="hotline-phone-ring-img-circle">
+      <a href="tel:0842665666" class="pps-btn-img">
+        <img src="https://nguyenhung.net/wp-content/uploads/2019/05/icon-call-nh.png" alt="Gọi điện thoại" width="50">
+      </a>
+      </div>
+    </div>
+  </div>
 <script >
     // Variables to store alert elements
     const elStatus = document.getElementById('alert-danger');
@@ -143,7 +154,7 @@
         localStorage.removeItem('token');
         window.location.href = '/dang-nhap';
     }
-    
+
     // Event listener for reset pass form submission
     function handleSubmitRestPassword(event) {
       event.preventDefault(); // Prevent form submission
@@ -353,7 +364,7 @@
         });
     }
   </script>
-<?php endif; ?>  
+<?php endif; ?>
 <!-- Messenger Plugin chat Code -->
 <div id="fb-root"></div>
 <!-- Your Plugin chat code -->
